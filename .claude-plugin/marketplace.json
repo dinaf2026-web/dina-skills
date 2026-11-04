@@ -25,6 +25,16 @@
         "repo": "dinaf2026-web/ai-secure-code-review-guide"
       },
       "homepage": "https://github.com/dinaf2026-web/ai-secure-code-review-guide"
+    },
+    {
+      "name": "aim-higher",
+      "description": "Raises the ceiling on a task before work starts. The four kinds of ambition, speed, altitude, depth and range, with a guardrail separating an unreasonable target from an unreasonable claim, paste-ready prompts by domain, and crews and outside judges that can refuse.",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "dinaf2026-web/aim-higher"
+      },
+      "homepage": "https://github.com/dinaf2026-web/aim-higher"
     }
   ]
 }
