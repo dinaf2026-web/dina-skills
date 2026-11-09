@@ -35,6 +35,16 @@
         "repo": "dinaf2026-web/aim-higher"
       },
       "homepage": "https://github.com/dinaf2026-web/aim-higher"
+    },
+    {
+      "name": "social-media-marketing",
+      "description": "Organic social-media strategy and platform-native content. Strategy, calendars, scripts, titles and thumbnails, channel audits and competitor analysis, behind a claim-safety gate that keeps source status and claim status separate and refuses to let a disclaimer carry a headline the evidence does not support.",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "dinaf2026-web/social-media-marketing"
+      },
+      "homepage": "https://github.com/dinaf2026-web/social-media-marketing"
     }
   ]
 }
